@@ -2,9 +2,6 @@ from django.db import models
 from django.utils import timezone
 
 # Create your models here.
-
-
-
 CATEGORY_CHOICES = (
 	('Select', 'Select'),
     ('Technical', 'Technical'),
